@@ -1,6 +1,6 @@
 {
   "name": "array-occurrence",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get the number of occurrences of an item in an array",
   "license": "MIT",
   "repository": "gillstrom/array-occurrence",
