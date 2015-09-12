@@ -1,0 +1,40 @@
+{
+  "name": "array-occurrence",
+  "version": "0.0.0",
+  "description": "Get the number of occurrences of an item in an array",
+  "license": "MIT",
+  "repository": "gillstrom/array-occurrence",
+  "author": {
+    "name": "Andreas Gillström",
+    "email": "andreasgillstrom@gmail.com",
+    "url": "github.com/gillstrom"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "arr",
+    "array",
+    "count",
+    "counts",
+    "instance",
+    "instances",
+    "occurrence",
+    "occurrences"
+  ],
+  "devDependencies": {
+    "ava": "^0.2.0",
+    "xo": "*"
+  },
+  "xo": {
+    "envs": [
+      "node"
+    ]
+  }
+}
